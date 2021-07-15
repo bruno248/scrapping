@@ -1,0 +1,7 @@
+ruby '2.6.3'
+gem 'rspec'
+gem 'pry'
+gem 'dotenv'
+gem 'nokogiri'
+gem 'rubocop'
+gem 'open-uri'
